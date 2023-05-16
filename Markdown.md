@@ -9,10 +9,12 @@ I am learning about **_Markdown_** in this lab
 # Links
 Online [coding tutorials](https://www.w3schools.com "w3schools")
 
+
 # Highlighting
 Inline code is highlighted with `back-ticks`.
 
 Blocks of code are highlighted with three back ticks at the beginning of the block and three at the end of it.
+
 
 # Footnotes
 Footnotes are useful for guiding to a reference [^1]
@@ -21,6 +23,7 @@ Footnotes are useful for guiding to a reference [^1]
 Footnotes can also have names, but it will still render as a number [^name]
 [^name]: Named footnote reference
 
+
 # Tables
 Tables | Less | Organized
 --- | --- | ---
@@ -28,12 +31,21 @@ Tables | Less | Organized
 they | look | nice
 *when* | they | render
 
+
 # Blockquotes
 > Blockquotes are denoted with ">"
+
 
 # Inline HTML
 Inline HTML can be used in markdown.
 However, Markdown does not work in the same way in the HTML brackets.  When using HTML in Markdown, you must use HTML tags inside of the HTML block you are creating.
 
+
 # Youtube Videos
 You can link Youtube videos in HTML, or in markdown
+
+# Horizontal Rule
+I am a little confused about why this works this way, but
+---
+The text within these lines is bigger for some reason when I just wanted larger lines to separate the topics.
+---
